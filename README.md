@@ -1,3 +1,7 @@
+# React hooks
+
+This project is to understand how hooks are implemented in a functional app environment.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
